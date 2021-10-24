@@ -167,6 +167,9 @@ span{
     text-transform: uppercase;
     font-size: 25px;
 }
+.paddingsocial{
+    padding-top:70px;
+}
 .social{
    padding: 70px 30px;
 }
