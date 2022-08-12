@@ -196,7 +196,7 @@ footer{
     }
     #dp{
         display: contents;
-    }*/
+    }
     
     
 
@@ -227,7 +227,7 @@ footer{
         flex-direction: column;
     }
     
-}
+}*/
 @media(max-width:790px){
     body{
         display: block;
